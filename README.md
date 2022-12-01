@@ -1,1 +1,1 @@
-# SpringboardExercises
+# SpringboardDataScienceExercises
